@@ -1,8 +1,8 @@
-title: Argentina y conquista del Río de la Plata 
+title: Argentina y Conquista del Río de la Plata 
 description: con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil
-baseurl: "/Argentina-y-conquista-del-Rio-de-la-plata" # the subpath of your site, e.g. /blog
+baseurl: "/argentina-y-conquista-del-rio-de-la-plata" # the subpath of your site, e.g. /blog
 url: "http://hdlab.space" # the base hostname & protocol for your site
-github_repo: Argentina-y-conquista-del-Rio-de-la-plata # the GitHub repo name for your project
+github_repo: argentina-y-conquista-del-rio-de-la-plata/ # the GitHub repo name for your project
 twitter_username: HDCAICYT
 github_username:  hdcaicyt
 facebook_username: HDCAICYTLAB
