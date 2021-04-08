@@ -110,11 +110,13 @@
 .left { float: left; }
 .right { float: right; }
 
-
-
 .col-left {
-  float: left;
-  width: 70%;
+  float: left; 
+  width: 35%;
+}
+.col-center {
+  width: 35%;
+  display: inline-block !important;
 }
 
 .col-right {
