@@ -1,15 +1,15 @@
 title: Argentina y Conquista del Río de la Plata 
-email: hdcaicyt@gmail.com
+email: hdlabconicet@gmail.com
 description: con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil
-baseurl: "/argentina-y-conquista-del-rio-de-la-plata" # the subpath of your site, e.g. /blog
-url: "http://hdlab.space" # the base hostname & protocol for your site
-github_repo: argentina-y-conquista-del-rio-de-la-plata/ # the GitHub repo name for your project
-twitter_username: HDCAICYT
+baseurl: "/argentina-y-conquista-del-rio-de-la-plata"
+url: "https://hdlab.space"
+github_repo: argentina-y-conquista-del-rio-de-la-plata/
+twitter_username: hdlabconicet
 github_username:  hdcaicyt
-facebook_username: HDCAICYTLAB
+facebook_username: hdlabconicet
 
 social_link: twitter
-social_username: hdcaicyt
+social_username: hdlabconicet
 
 theme_color: light
 
