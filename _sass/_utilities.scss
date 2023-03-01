@@ -111,21 +111,18 @@
 .right { float: right; }
 
 .col-left {
-  float: left; 
-  width: 35%;
-}
-.col-center {
-  width: 35%;
-  display: inline-block !important;
+  float: left;
+  width: 60%;
 }
 
 .col-right {
   float: right;
-  width: 30%;
+  width: 40%;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 40px;
 }
+
 
 /* Clear floats after the columns */
 .row {
