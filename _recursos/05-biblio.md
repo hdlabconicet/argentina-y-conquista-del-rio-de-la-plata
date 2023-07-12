@@ -20,7 +20,7 @@ Hispanoamericana, 1998.
 
 * Fitte, Ernesto (1963). Hambre y desnudeces en la conquista del Río de la Plata. Buenos Aires: Emecé.
   
-* Tieffemberg, S. (1991).[Martín del Barco Centenera Argentina y conquista del Río de la Plata](http://repositorio.filo.uba.ar/handle/filodigital/1506). Universidad de Buenos Aires. Facultad de Filosofía y Letras.
+* Tieffemberg, S. (1991). [Martín del Barco Centenera Argentina y conquista del Río de la Plata](http://repositorio.filo.uba.ar/handle/filodigital/1506). Universidad de Buenos Aires. Facultad de Filosofía y Letras.
   
 * Vittori, José Luis (1991). Del Barco Centenera y “La Argentina”: orígenes del realismo mágico en América. Santa Fe: Colmegna.
 
