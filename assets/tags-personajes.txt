@@ -6,7 +6,6 @@ aliado
 capitán
 conquistador
 contador
-contador
 dramaturgo
 enemigo
 escribano
