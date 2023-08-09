@@ -26,7 +26,7 @@ type: extras
     </svg>
     <a class="no-underline" title="Texto en Voyant" href="#" target="_blank">Voyant Tools</a>
   </h2>
-  <a class="h3 lh-condensed" href="#" target="_blank"><p>Anpalis textual automatizado de Argentina y Conquista del Río de la Plata</p></a></div>
+  <a class="h3 lh-condensed" href="#" target="_blank"><p>Análisis textual automatizado de Argentina y Conquista del Río de la Plata</p></a></div>
 
   {% for post in site.recursos %}
     {% include post_block.html %}
