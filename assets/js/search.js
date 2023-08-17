@@ -4,40 +4,31 @@
 // Based on a script by Kathie Decora : katydecorah.com/code/lunr-and-jekyll/
 
 //Create the lunr index for the search
-
 var index = elasticlunr(function () {
   this.addField('section')
-  this.addField('subtitle')
+  this.addField('pagenum')
   this.addField('layout')
   this.addField('content')
   this.setRef('id')
 });
 
-//Add to this index the proper metadata from the Jekyll content
-
-
 {% assign count = 0 %}{% for text in site.barco_centenera_pages %}
 index.addDoc({
-  subtitle: {{text.subtitle | jsonify}},
-  chapter: {{text.chapter | jsonify}},
+  section: {{text.section | jsonify}},
+  pagenum: {{text.pagenum | jsonify}},
   layout: {{text.layout | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
 console.log( jQuery.type(index) );
 
-// Builds reference data (maybe not necessary for us, to check)
-
-
 var store = [{% for text in site.barco_centenera_pages %}{
-  "subtitle": {{text.subtitle | jsonify}},
-  "chapter": {{text.chapter | jsonify}},
+  "section": {{text.section | jsonify}},
+  "pagenum": {{text.pagenum | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
 },
 {% endfor %}]
-
-//Query
 
 var url = window.location.href;
 if (url.lastIndexOf("?q=") > 0) {
@@ -64,7 +55,7 @@ function doSearch() {
   //Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].chapter+' - '+store[ref].subtitle+'</a></p></div>';
+    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].section+' - '+store[ref].pagenum+'</a></p></div>';
     resultdiv.append(searchitem);
   }
 }
