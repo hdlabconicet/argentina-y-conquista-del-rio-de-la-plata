@@ -1,4 +1,4 @@
-var sectionColor = {'Introducción.txt': '#e6194b', 'canto-1.txt': '#3cb44b', 'canto-2.txt': '#ffe119', 'canto-3.txt': '#4363d8', 'canto-4.txt': '#f58231', 'canto-5.txt': '#911eb4', 'canto-6.txt': '#46f0f0', 'canto-7.txt': '#f032e6', 'canto-8.txt': '#bcf60c', 'canto-9.txt': '#fabebe', 'canto-10.txt': '#008080', 'canto-11.txt': '#e6beff', 'canto-12.txt': '#9a6324', 'canto-13.txt': '#fffac8', 'canto-14.txt': '#800000', 'canto-15.txt': '#aaffc3', 'canto-16.txt': '#808000', 'canto-17.txt': '#ffd8b1', 'canto-18.txt': '#000075', 'canto-19.txt': '#808080', 'canto-20.txt': '#ffffff', 'canto-21.txt': '#000000', 'canto-22.txt': '#d8488b', 'canto-23.txt': '#e57438', 'canto-24.txt': '#ecff00', 'canto-25.txt': '#4e4e4e', 'canto-26.txt': '#cb00a9', 'canto-27.txt': '#fab546', 'canto-28.txt': '#6100fb', 'canto XX.txt': '#f1e6e5'}
+var sectionColor = {'Introducción': '#e6194b', 'canto 1': '#3cb44b', 'canto 2': '#ffe119', 'canto 3': '#4363d8', 'canto 4': '#f58231', 'canto 5': '#911eb4', 'canto 6': '#46f0f0', 'canto 7': '#f032e6', 'canto 8': '#bcf60c', 'canto 9': '#fabebe', 'canto 10': '#008080', 'canto 11': '#e6beff', 'canto 12': '#9a6324', 'canto 13': '#fffac8', 'canto 14': '#800000', 'canto 15': '#aaffc3', 'canto 16': '#808000', 'canto 17': '#ffd8b1', 'canto 18': '#000075', 'canto 19': '#808080', 'canto 20': '#ffffff', 'canto 21': '#000000', 'canto 22': '#d8488b', 'canto 23': '#e57438', 'canto 24': '#ecff00', 'canto 25': '#4e4e4e', 'canto 26': '#cb00a9', 'canto 27': '#fab546', 'canto 28': '#6100fb', 'canto XX': 'grey'}
 
 var centeneraPlaces = [
  {
@@ -33,7 +33,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Francisco",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -785,7 +785,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paraguay",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -36875,7 +36875,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Ternate",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -40507,7 +40507,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Cruz",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -42505,7 +42505,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "China",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -100865,7 +100865,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Vicente",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -144913,7 +144913,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Castilla",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -158541,7 +158541,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Salvador",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -158562,7 +158562,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santiago",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -158817,7 +158817,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Buenos Aires",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -177135,7 +177135,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Medellin",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -177224,7 +177224,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Estrecho.",
+   "titles": "Estrecho de Magallanes",
    "section": "canto 1",
    "page": "pg_0009"
   },
@@ -178376,7 +178376,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Tucuman",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
@@ -178397,7 +178397,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Uruguay",
-   "section": "canto XX.txt",
+   "section": "canto XX",
    "page": "pg_0001"
   },
   "uris": [
