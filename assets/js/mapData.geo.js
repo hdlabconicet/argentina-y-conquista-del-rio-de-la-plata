@@ -46312,8 +46312,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Francisco",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 5",
+   "page": "pg_0085"
   },
   "uris": [
    "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000691"
@@ -47064,8 +47064,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paraguay",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 1",
+   "page": "pg_0003"
   },
   "uris": [
    "http://sws.geonames.org/3437598"
@@ -88784,8 +88784,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "China",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 26",
+   "page": "pg_0430"
   },
   "uris": [
    "http://sws.geonames.org/3530839"
@@ -144913,8 +144913,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Castilla",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 2",
+   "page": "pg_0032"
   },
   "uris": [
    "http://sws.geonames.org/3112703"
@@ -158562,8 +158562,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santiago",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 08",
+   "page": "pg_0050"
   },
   "uris": [
    "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000047"
@@ -177135,8 +177135,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Medellin",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 5",
+   "page": "pg_0092"
   },
   "uris": [
    "http://sws.geonames.org/1699896"
@@ -178376,8 +178376,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Tucuman",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 1",
+   "page": "pg_0004"
   },
   "uris": [
    "http://sws.geonames.org/3833578"
@@ -178397,8 +178397,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Uruguay",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 11",
+   "page": "pg_0021"
   },
   "uris": [
    "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000007"
