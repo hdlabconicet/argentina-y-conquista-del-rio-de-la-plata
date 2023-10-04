@@ -1,4 +1,4 @@
-var sectionColor = {'Introducción': '#e6194b', 'canto 1': '#3cb44b', 'canto 2': '#ffe119', 'canto 3': '#4363d8', 'canto 4': '#f58231', 'canto 5': '#911eb4', 'canto 6': '#46f0f0', 'canto 7': '#f032e6', 'canto 8': '#bcf60c', 'canto 9': '#fabebe', 'canto 10': '#008080', 'canto 11': '#e6beff', 'canto 12': '#9a6324', 'canto 13': '#fffac8', 'canto 14': '#800000', 'canto 15': '#aaffc3', 'canto 16': '#808000', 'canto 17': '#f1e6e5', 'canto 18': '#000075', 'canto 19': '#808080', 'canto 20': '#ffd8b1', 'canto 21': '#000000', 'canto 22': '#d8488b', 'canto 23': '#e57438', 'canto 24': '#ecff00', 'canto 25': '#4e4e4e', 'canto 26': '#cb00a9', 'canto 27': '#fab546', 'canto 28': '#6100fb', 'canto XX': '#ffffff'}
+var sectionColor = {'Introducción': '#e6194b', 'canto 1': '#3cb44b', 'canto 2': '#ffe119', 'canto 3': '#4363d8', 'canto 4': '#f58231', 'canto 5': '#911eb4', 'canto 6': '#46f0f0', 'canto 7': '#f032e6', 'canto 8': '#bcf60c', 'canto 9': '#fabebe', 'canto 10': '#008080', 'canto 11': '#e6beff', 'canto 12': '#9a6324', 'canto 13': '#fffac8', 'canto 14': '#800000', 'canto 15': '#aaffc3', 'canto 16': '#808000', 'canto 17': '#f1e6e5', 'canto 18': '#000075', 'canto 19': '#808080', 'canto 20': '#ffd8b1', 'canto 21': '#000000', 'canto 22': '#d8488b', 'canto 23': '#e57438', 'canto 24': '#ecff00', 'canto 25': '#4e4e4e', 'canto 26': '#cb00a9', 'canto 27': '#fab546', 'canto 28': '#6100fb'}
 
 var centeneraPlaces = [
  {
@@ -83154,8 +83154,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Ternate",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 22",
+   "page": "pg_0368"
   },
   "uris": [
    "http://sws.geonames.org/1624041"
@@ -86786,8 +86786,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Cruz",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 5",
+   "page": "pg_0088"
   },
   "uris": [
    "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6001360"
@@ -100865,8 +100865,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Vicente",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 5",
+   "page": "pg_0085"
   },
   "uris": [
    "http://sws.geonames.org/1687419"
@@ -158541,8 +158541,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Salvador",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 1",
+   "page": "pg_0017"
   },
   "uris": [
    "http://sws.geonames.org/3428481"
@@ -158817,8 +158817,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Buenos Aires",
-   "section": "canto XX",
-   "page": "pg_0001"
+   "section": "canto 2",
+   "page": "pg_0020"
   },
   "uris": [
    "http://sws.geonames.org/3713678"
