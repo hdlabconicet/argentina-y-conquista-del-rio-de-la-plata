@@ -6,12 +6,13 @@ type: extras
 ---
 
 ## Acerca de esta edición digital
-
+*Argentina y conquista del Río de la Plata* de Martín del Barco Centenera es un extenso poema que entremezcla la épica, el romance o la historiografía con los más diversos tiempos, relatos, personajes y geografías en un esquema métrico que, por el contrario, se decanta por las formas fijas y la poca variedad de rimas. Se trata de veintiocho cantos estructurados en mil trescientas cuarenta y una octavas reales con redondilla final que unen la rima alterna ABABAB con dos versos pareados de rima CC. La abrumadora abundancia de los detalles de la narración se ordena en un metro que desde el siglo XVI comienza a ser el preferido para temas solemnes, el endecasílabo, que en este caso manifiesta una machacante terminación grave. 
+La presente edición digital ofrece tres posibilidades de intervención textual: rima, métrica y notas. Los botones superiores dedicados a cada una permiten la iluminación de rimas, la escansión automática del verso o la exploración de una anotación minuciosa de los personajes. Esta serie de punciones sobre el texto actualiza las posibilidades de lectura de un género que hemos perdido y cuya lectura lineal hoy sería casi imposible, el de la narración en verso. 
 
 Esta edición digital se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2021). Martín del Carco Cenenera. <i>Argentina y conquista del Río de la Plata con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil</i>. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2023). Martín del Barco Centenera. <i>Argentina y conquista del Río de la Plata con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil</i>. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a> [Fecha de consulta]</p>
 
 Repositorio de datos: <a class="no-underline" href="#"><img src="https://zenodo.org/badge/253643101.svg" alt="DOI"/></a>
