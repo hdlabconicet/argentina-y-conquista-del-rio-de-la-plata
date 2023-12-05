@@ -10,7 +10,7 @@ type: extras
 
 La presente edición digital ofrece tres posibilidades de intervención textual: rima, métrica y notas. Los botones superiores dedicados a cada una permiten la iluminación de rimas, la escansión automática del verso o la exploración de una anotación minuciosa de los personajes. Esta serie de punciones sobre el texto actualiza las posibilidades de lectura de un género que hemos perdido y cuya lectura lineal hoy sería casi imposible, el de la narración en verso. 
 
-incluir aquí la imagen de los botones rima métrica y notas
+<img src="{{ site.baseurl }}/assets/img/buttons-animation.gif" alt="buttons animation" width="70%" class="center"/>
 
 El texto de esta edición digital se tomó de *Historia de Argentina: desde el descubrimiento, población y conquista de las provincias del Río de La Plata hasta nuestros días*. Tomo III, Buenos Aires, Imprenta de la Revista, 1854. Se comparte a través de la licencia [Creative Commons 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
