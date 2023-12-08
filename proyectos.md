@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: 
+title: Proyectos
+permalink: proyectos
 type: extras
 ---
 
