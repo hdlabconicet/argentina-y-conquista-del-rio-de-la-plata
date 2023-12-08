@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proyectos
+title: 
 permalink: 
 type: extras
 ---
