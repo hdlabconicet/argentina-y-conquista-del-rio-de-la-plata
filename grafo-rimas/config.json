@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://hdlab.space/Relacion-de-las-cosas-sucedidas/assets/img/hdlab-conicet-logo-gris.jpg",
+    "link": "https://hdlab.space/",
+    "text": "HDLABCONICET"
+  },
+  "text": {
+    "more": "Este grafo muestra conexiones entre palabras del poema histórico <i>La Argentina y conquista del Río de la Plata</i> de Martín del Barco Centenera. Para esta visualización, consideramos que dos palabras están conectadas cuando se encuentran en la misma estrofa y riman.<br/>Los racimos de colores representan conjuntos de palabras con una misma rima. Por ejemplo, el rojo brillante <span style=\"color:#f40000\">&#9632;</span> corresponde a la rima más frecuente del poema (-erte) y el naranja <span style=\"color:#ff870f\">&#9632;</span>, a la segunda rima más frecuente (-erra). También decidimos destacar en turquesa <span style=\"color:#13ffff\">&#9632;</span> las rimas de la palabra &#8220;Argentina&#8221;. Los demás colores corresponden a los diez grupos más numerosos de palabras que comparten la misma rima.",
+    "intro": "Grafo de rimas de La Argentina y conquista del Río de la Plata de Martín del Barco Centenera",
+    "title": "Rimas de La Argentina y conquista del Río de la Plata"
+  },
+  "legend": {
+    "edgeLabel": "rima",
+    "colorLabel": "misma rima",
+    "nodeLabel": "palabras"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "rima",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
