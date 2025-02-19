@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://hdlab.space/Relacion-de-las-cosas-sucedidas/assets/img/hdlab-conicet-logo-gris.jpg",
+    "link": "https://hdlab.space/",
+    "text": "HDLABCONICET"
+  },
+  "text": {
+    "more": "Este grafo muestra conexiones entre personajes del poema histórico <i>La Argentina y conquista del Río de la Plata</i> de Martín del Barco Centenera. Consideramos que dos personajes están conectados cuando coocurren en un mismo canto.<br>El tamaño de un nodo es proporcional a la cantidad de conexiones del personaje que representa. El color de un nodo corresponde a la categoría del personaje (bíblico, literario, mítico, gobernante, conquistador, etc.)",
+    "intro": "Grafo de personajes de La Argentina y conquista del Río de la Plata de Martín del Barco Centenera",
+    "title": "Personajes La Argentina y conquista del Río de la Plata"
+  },
+  "legend": {
+    "edgeLabel": "coocurrencia",
+    "colorLabel": "categoría",
+    "nodeLabel": "personajes"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
