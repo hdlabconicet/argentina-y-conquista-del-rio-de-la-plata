@@ -5,8 +5,6 @@ permalink: /recursos/
 type: extras
 ---
 
-
-<!-- Recursos -->
 <div class="container mx-auto px-2">
   <div class="py-1 mb-0 prose">
    <h2 class="h2 lh-condensed col-9 mb-2">
@@ -21,4 +19,4 @@ type: extras
     {% include post_block.html %}
   {% endfor %}
 
-</div><!-- End Recursos -->
+</div>

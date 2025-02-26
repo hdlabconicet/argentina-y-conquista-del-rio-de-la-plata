@@ -7,6 +7,14 @@
           Inicio
         </a>
       </li>
+      {% unless page.title == "Redes interactivas" %}
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+        <a class="italic no-underline h4 font-smoothing" href="{{site.baseurl}}/grafos/rimas">Rimas</a>
+      </li>
+      <li class="inline-block block-lg text-right ml-1 ml-lg-0">
+        <a class="italic no-underline h4 font-smoothing" href="{{site.baseurl}}/grafos/personajes">Personajes</a>
+      </li>    
+        {% endunless %}
       {% for my_page in site.pages %}
         {% if my_page.title %}
         <li class="inline-block block-lg text-right ml-1 ml-lg-0">
