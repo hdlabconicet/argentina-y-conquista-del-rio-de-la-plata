@@ -8,8 +8,8 @@
     "text": "HDLABCONICET"
   },
   "text": {
-    "more": "Este grafo muestra conexiones entre personajes del poema histórico <i>La Argentina y conquista del Río de la Plata</i> de Martín del Barco Centenera. Consideramos que dos personajes están conectados cuando coocurren en un mismo canto.<br>El tamaño de un nodo es proporcional a la cantidad de conexiones del personaje que representa. El color de un nodo corresponde a la categoría del personaje (bíblico, literario, mítico, gobernante, conquistador, etc.)",
-    "intro": "Grafo de personajes de La Argentina y conquista del Río de la Plata de Martín del Barco Centenera",
+    "more": "Este grafo muestra conexiones entre personajes del poema histórico <i>La Argentina y conquista del Río de la Plata</i> de Martín del Barco Centenera. Consideramos que dos personajes están conectados cuando coocurren en un mismo canto.<br>El tamaño de un nodo es proporcional a la cantidad de conexiones del personaje que representa. El color de un nodo corresponde a la categoría del personaje (bíblico, literario, mítico, gobernante, conquistador, etc.).<br>Use las lupas situadas bajo el grafo para acercar, alejar y centrar la imagen.",
+    "intro": "Grafo de personajes de <a href=\"https://hdlab.space/argentina-y-conquista-del-rio-de-la-plata/indice/\">La Argentina y conquista del Río de la Plata</a> de Martín del Barco Centenera",
     "title": "Personajes La Argentina y conquista del Río de la Plata"
   },
   "legend": {

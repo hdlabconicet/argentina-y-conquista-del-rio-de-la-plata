@@ -602,13 +602,16 @@ function showCluster(a) {
         sigInst.iterNodes(function (a) {
             a.hidden = !0
         });
+
+        var rimaCluster = sigInst._core.graph.nodesIndex[b[0]].attr.attributes["Rima"] || "No disponible";
+
         for (var f = [], e = [], c = 0, g = b.length; c < g; c++) {
             var d = sigInst._core.graph.nodesIndex[b[c]];
             !0 == d.hidden && (e.push(b[c]), d.hidden = !1, d.attr.lineWidth = !1, d.attr.color = d.color, f.push('<li class="membership"><a href="#'+d.label+'" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + d.id + "'])\" onclick=\"nodeActive('" + d.id + '\')" onmouseout="sigInst.refresh()">' + d.label + "</a></li>"))
         }
         sigInst.clusters[a] = e;
         sigInst.draw(2, 2, 2, 2);
-        $GP.info_name.html("<b>" + a + "</b>");
+        $GP.info_name.html("<b> Grupo: <div style=\"width:40px;height:12px;border:1px solid #fff;background:" + a + ";display:inline-block\"></div><br>Rima: " + rimaCluster + "</b>");
         $GP.info_data.hide();
         $GP.info_p.html("Miembros del grupo:");
         $GP.info_link.find("ul").html(f.join(""));
