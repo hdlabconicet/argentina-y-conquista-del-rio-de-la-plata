@@ -88680,7 +88680,7 @@ var centeneraPlaces = [
    "https://whgazetteer.org/places/178782/detail"
   ],
   "titles": [
-   "Concepcion"
+   "Potosí"
   ],
   "place_types": [
    "Ciudad"
@@ -88764,7 +88764,7 @@ var centeneraPlaces = [
   "properties": {
    "titles": "Madrid",
    "section": "canto 24",
-   "page": "pg_0004"
+   "page": "pg_0402"
   },
   "uris": [
    "http://sws.geonames.org/3117732"
@@ -88825,15 +88825,15 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Charca",
-   "section": "canto 19",
-   "page": "pg_0012"
+   "titles": "Charcas",
+   "section": "canto 22",
+   "page": "pg_0358"
   },
   "uris": [
    "https://whgazetteer.org/places/14161419/portal/"
   ],
   "titles": [
-   "Charca"
+   "Charcas"
   ],
   "place_types": [
    "Pueblo"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliografía
+title: Bibliografía Seleccionada
 permalink: /biblio/
 type: extras
 icon: book
