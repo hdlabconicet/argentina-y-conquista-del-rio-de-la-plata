@@ -88677,7 +88677,7 @@ var centeneraPlaces = [
    "page": "pg_0004"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:7000002"
+   "https://whgazetteer.org/places/178782/detail"
   ],
   "titles": [
    "Concepcion"
@@ -88767,7 +88767,7 @@ var centeneraPlaces = [
    "page": "pg_0004"
   },
   "uris": [
-   "http://sws.geonames.org/3675707"
+   "http://sws.geonames.org/3117732"
   ],
   "titles": [
    "Madrid"
@@ -88788,7 +88788,7 @@ var centeneraPlaces = [
    "page": "pg_0430"
   },
   "uris": [
-   "http://sws.geonames.org/3530839"
+   "http://sws.geonames.org/1711003"
   ],
   "titles": [
    "China"
@@ -88830,7 +88830,7 @@ var centeneraPlaces = [
    "page": "pg_0012"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000474"
+   "https://whgazetteer.org/places/14161419/portal/"
   ],
   "titles": [
    "Charca"
@@ -144869,7 +144869,7 @@ var centeneraPlaces = [
    "page": "pg_0020"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001"
+   "https://whgazetteer.org/places/portal/179479/"
   ],
   "titles": [
    "Buenos Aires"
