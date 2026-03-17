@@ -88778,8 +88778,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -99.23454,
-    25.69997
+    10.68454,
+    122.51997
    ]
   },
   "properties": {
