@@ -88674,13 +88674,13 @@ var centeneraPlaces = [
   "properties": {
    "titles": "imperial",
    "section": "canto 23",
-   "page": "pg_0004"
+   "page": "pg_0382"
   },
   "uris": [
    "https://whgazetteer.org/places/178782/detail"
   ],
   "titles": [
-   "Potosí"
+   "Concepción"
   ],
   "place_types": [
    "Ciudad"
