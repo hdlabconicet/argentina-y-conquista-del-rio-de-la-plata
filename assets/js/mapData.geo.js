@@ -18,7 +18,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3449112"
   ],
-  "titles": [
+  "canonical_titles": [
    "S\u00e3o Francisco do Sul"
   ]
  },
@@ -37,9 +37,9 @@ var centeneraPlaces = [
    "page": "pg_0085"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000691"
+   "http://sws.geonames.org/3904408"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Francisco"
   ],
   "place_types": [
@@ -51,8 +51,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -57.625844,
-    -25.342669
+    -57.60917,
+    -25.35
    ]
   },
   "properties": {
@@ -61,9 +61,9 @@ var centeneraPlaces = [
    "page": "pg_0041"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000661"
+   "http://sws.geonames.org/3437863"
   ],
-  "titles": [
+  "canonical_titles": [
    "Lambare"
   ],
   "place_types": [
@@ -791,7 +791,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3437598"
   ],
-  "titles": [
+  "canonical_titles": [
    "Paraguay"
   ]
  },
@@ -810,9 +810,9 @@ var centeneraPlaces = [
    "page": "pg_0272"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000560"
+   "http://sws.geonames.org/3904104"
   ],
-  "titles": [
+  "canonical_titles": [
    "Vilcabamba"
   ],
   "place_types": [
@@ -5446,7 +5446,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3865483"
   ],
-  "titles": [
+  "canonical_titles": [
    "Argentina"
   ]
  },
@@ -5467,7 +5467,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/252910"
   ],
-  "titles": [
+  "canonical_titles": [
    "Th\u00edvai"
   ]
  },
@@ -5488,7 +5488,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2511230"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Sebasti\u00e1n de la Gomera"
   ]
  },
@@ -6219,7 +6219,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3439705"
   ],
-  "titles": [
+  "canonical_titles": [
    "Uruguay"
   ]
  },
@@ -6240,7 +6240,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3435910"
   ],
-  "titles": [
+  "canonical_titles": [
    "Buenos Aires"
   ]
  },
@@ -6259,9 +6259,9 @@ var centeneraPlaces = [
    "page": "pg_0243"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000002"
+   "http://sws.geonames.org/3986678"
   ],
-  "titles": [
+  "canonical_titles": [
    "El Cuzco"
   ],
   "place_types": [
@@ -36815,7 +36815,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3895114"
   ],
-  "titles": [
+  "canonical_titles": [
    "Chile"
   ]
  },
@@ -36834,9 +36834,9 @@ var centeneraPlaces = [
    "page": "pg_0021"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:10000736"
+   "http://sws.geonames.org/3430443"
   ],
-  "titles": [
+  "canonical_titles": [
    "Martin Garcia"
   ],
   "place_types": [
@@ -36860,29 +36860,8 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2642416"
   ],
-  "titles": [
+  "canonical_titles": [
    "Mistley"
-  ]
- },
- {
-  "type": "Feature",
-  "geometry": {
-   "type": "Point",
-   "coordinates": [
-    127.38424,
-    0.79065
-   ]
-  },
-  "properties": {
-   "titles": "Ternate",
-   "section": "canto 22",
-   "page": "pg_0368"
-  },
-  "uris": [
-   "http://sws.geonames.org/1624041"
-  ],
-  "titles": [
-   "Ternate"
   ]
  },
  {
@@ -36902,7 +36881,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2514947"
   ],
-  "titles": [
+  "canonical_titles": [
    "Logros\u00e1n"
   ]
  },
@@ -39013,7 +38992,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/6697803"
   ],
-  "titles": [
+  "canonical_titles": [
    "East Macedonia and Thrace"
   ]
  },
@@ -39034,7 +39013,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3451190"
   ],
-  "titles": [
+  "canonical_titles": [
    "Rio de Janeiro"
   ]
  },
@@ -39053,9 +39032,9 @@ var centeneraPlaces = [
    "page": "pg_0026"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000199"
+   "http://sws.geonames.org/3439303"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Ana"
   ],
   "place_types": [
@@ -39077,9 +39056,9 @@ var centeneraPlaces = [
    "page": "pg_0430"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6001392"
+   "http://sws.geonames.org/3932004"
   ],
-  "titles": [
+  "canonical_titles": [
    "Paita"
   ],
   "place_types": [
@@ -39101,9 +39080,9 @@ var centeneraPlaces = [
    "page": "pg_0244"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000502"
+   "http://sws.geonames.org/3937054"
   ],
-  "titles": [
+  "canonical_titles": [
    "Laramate"
   ],
   "place_types": [
@@ -39125,9 +39104,9 @@ var centeneraPlaces = [
    "page": "pg_0001"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001006"
+   "http://sws.geonames.org/3440714"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Salvador"
   ],
   "place_types": [
@@ -40287,7 +40266,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2264397"
   ],
-  "titles": [
+  "canonical_titles": [
    "Portugal"
   ]
  },
@@ -40296,8 +40275,7 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -46.39194,
-    -23.96306
+    -46.39194, -23.96306    
    ]
   },
   "properties": {
@@ -40308,7 +40286,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3448136"
   ],
-  "titles": [
+  "canonical_titles": [
    "S\u00e3o Vicente"
   ]
  },
@@ -40327,9 +40305,9 @@ var centeneraPlaces = [
    "page": "pg_0251"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000014"
+   "http://sws.geonames.org/3911224"
   ],
-  "titles": [
+  "canonical_titles": [
    "Mizque"
   ],
   "place_types": [
@@ -40447,7 +40425,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3573345"
   ],
-  "titles": [
+  "canonical_titles": [
    "Bermuda"
   ]
  },
@@ -40466,9 +40444,9 @@ var centeneraPlaces = [
    "page": "pg_0084"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000007"
+   "http://sws.geonames.org/3903428"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Rafael de Chiquitos"
   ],
   "place_types": [
@@ -40492,7 +40470,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3841956"
   ],
-  "titles": [
+  "canonical_titles": [
    "Paran\u00e1"
   ]
  },
@@ -40511,9 +40489,9 @@ var centeneraPlaces = [
    "page": "pg_0088"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6001360"
+   "http://sws.geonames.org/3692715"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Cruz"
   ],
   "place_types": [
@@ -40537,7 +40515,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3130372"
   ],
-  "titles": [
+  "canonical_titles": [
    "Aliaga"
   ]
  },
@@ -41724,7 +41702,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3440789"
   ],
-  "titles": [
+  "canonical_titles": [
    "R\u00edo Negro"
   ]
  },
@@ -42379,7 +42357,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2267056"
   ],
-  "titles": [
+  "canonical_titles": [
    "Lisbon"
   ]
  },
@@ -42400,7 +42378,7 @@ var centeneraPlaces = [
   "uris": [
    "https://whgazetteer.org/places/178782/detail"
   ],
-  "titles": [
+  "canonical_titles": [
    "Potosí"
   ],
   "place_types": [
@@ -42424,7 +42402,7 @@ var centeneraPlaces = [
   "uris": [
    "http://pleiades.stoa.org/places/256463"
   ],
-  "titles": [
+  "canonical_titles": [
    "Tagus (river)"
   ],
   "place_types": [
@@ -42448,7 +42426,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3468615"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cabo Frio"
   ]
  },
@@ -42469,7 +42447,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2509571"
   ],
-  "titles": [
+  "canonical_titles": [
    "Villamiel de Toledo"
   ]
  },
@@ -42490,7 +42468,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3117732"
   ],
-  "titles": [
+  "canonical_titles": [
    "Madrid"
   ]
  },
@@ -42511,7 +42489,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2517820"
   ],
-  "titles": [
+  "canonical_titles": [
    "Estepa"
   ]
  },
@@ -42532,7 +42510,7 @@ var centeneraPlaces = [
   "uris": [
    "https://whgazetteer.org/places/14161419/portal/"
   ],
-  "titles": [
+  "canonical_titles": [
    "Charcas"
   ],
   "place_types": [
@@ -42556,7 +42534,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3120511"
   ],
-  "titles": [
+  "canonical_titles": [
    "Huete"
   ]
  },
@@ -42575,9 +42553,9 @@ var centeneraPlaces = [
    "page": "pg_0021"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000345"
+   "http://sws.geonames.org/3443061"
   ],
-  "titles": [
+  "canonical_titles": [
    "Carmelo"
   ],
   "place_types": [
@@ -42601,7 +42579,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2519240"
   ],
-  "titles": [
+  "canonical_titles": [
    "C\u00f3rdoba"
   ]
  },
@@ -42610,8 +42588,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -63.860178,
-    -33.202748
+    -62.082389,
+    -31.427528
    ]
   },
   "properties": {
@@ -42620,9 +42598,9 @@ var centeneraPlaces = [
    "page": "pg_0085"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000172"
+   "http://sws.geonames.org/3836276"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Francisco"
   ],
   "place_types": [
@@ -42902,7 +42880,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3489940"
   ],
-  "titles": [
+  "canonical_titles": [
    "Jamaica"
   ]
  },
@@ -42911,8 +42889,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -70.760749,
-    -34.090263
+    -71.6334,
+    -33.65773
    ]
   },
   "properties": {
@@ -42921,9 +42899,9 @@ var centeneraPlaces = [
    "page": "pg_0426"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:7000285"
+   "http://sws.geonames.org/3869716"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santo Domingo"
   ],
   "place_types": [
@@ -52197,7 +52175,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3469034"
   ],
-  "titles": [
+  "canonical_titles": [
    "Brazil"
   ]
  },
@@ -52216,9 +52194,9 @@ var centeneraPlaces = [
    "page": "pg_0314"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000095"
+   "http://sws.geonames.org/3439101"
   ],
-  "titles": [
+  "canonical_titles": [
    "Ypane"
   ],
   "place_types": [
@@ -52230,8 +52208,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -57.632547,
-    -25.281564
+    -57.63591,
+    -25.28646
    ]
   },
   "properties": {
@@ -52240,9 +52218,9 @@ var centeneraPlaces = [
    "page": "pg_0003"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000006"
+   "http://sws.geonames.org/3439389"
   ],
-  "titles": [
+  "canonical_titles": [
    "Asuncion"
   ],
   "place_types": [
@@ -52254,8 +52232,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -64.67185487,
-    -22.1558186
+    -64.339722,
+    -22.740556
    ]
   },
   "properties": {
@@ -52264,9 +52242,9 @@ var centeneraPlaces = [
    "page": "pg_0029"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000314"
+   "http://sws.geonames.org/3908596"
   ],
-  "titles": [
+  "canonical_titles": [
    "Bermejo"
   ],
   "place_types": [
@@ -52290,7 +52268,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3129136"
   ],
-  "titles": [
+  "canonical_titles": [
    "\u00c1vila"
   ]
  },
@@ -52311,7 +52289,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/4155726"
   ],
-  "titles": [
+  "canonical_titles": [
    "Florida Ridge"
   ]
  },
@@ -52332,7 +52310,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2511174"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Cruz de Tenerife"
   ]
  },
@@ -52341,8 +52319,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -70.32071566,
-    -18.47801813
+    -70.33372,
+    -18.47833
    ]
   },
   "properties": {
@@ -52351,9 +52329,9 @@ var centeneraPlaces = [
    "page": "pg_0364"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000021"
+   "http://sws.geonames.org/3899539"
   ],
-  "titles": [
+  "canonical_titles": [
    "Arica"
   ],
   "place_types": [
@@ -52365,8 +52343,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -60.517197,
-    -31.743261
+    -60.52857,
+    -31.74741
    ]
   },
   "properties": {
@@ -52375,9 +52353,9 @@ var centeneraPlaces = [
    "page": "pg_0010"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000056"
+   "http://sws.geonames.org/3429886"
   ],
-  "titles": [
+  "canonical_titles": [
    "Parana"
   ],
   "place_types": [
@@ -54439,7 +54417,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3932488"
   ],
-  "titles": [
+  "canonical_titles": [
    "Peru"
   ]
  },
@@ -54448,8 +54426,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -71.53672669,
-    -16.39822338
+    -71.53501,
+    -16.39882
    ]
   },
   "properties": {
@@ -54458,9 +54436,9 @@ var centeneraPlaces = [
    "page": "pg_0119"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000007"
+   "http://sws.geonames.org/3947322"
   ],
-  "titles": [
+  "canonical_titles": [
    "Arequipa"
   ],
   "place_types": [
@@ -54484,7 +54462,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3427761"
   ],
-  "titles": [
+  "canonical_titles": [
    "Tigre"
   ]
  },
@@ -54505,7 +54483,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3437863"
   ],
-  "titles": [
+  "canonical_titles": [
    "Lambar\u00e9"
   ]
  },
@@ -54526,7 +54504,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3442105"
   ],
-  "titles": [
+  "canonical_titles": [
    "La Paloma"
   ]
  },
@@ -54545,16 +54523,16 @@ var centeneraPlaces = [
    "page": "pg_0389"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000390"
+   "http://sws.geonames.org/3947778"
   ],
-  "titles": [
+  "canonical_titles": [
    "Anco"
   ],
   "place_types": [
    "Pueblo"
   ]
  },
- {
+ /* {
   "type": "Feature",
   "geometry": {
    "type": "Point",
@@ -54571,10 +54549,10 @@ var centeneraPlaces = [
   "uris": [
    "https://www.geonames.org/3448136/"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Vicente"
   ]
- },
+ }, */
  {
   "type": "Feature",
   "geometry": {
@@ -54592,7 +54570,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3374725"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cidade Velha"
   ]
  },
@@ -54601,8 +54579,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -60.58175645,
-    -31.11453396
+    -60.70001,
+    -31.63333
    ]
   },
   "properties": {
@@ -54611,9 +54589,9 @@ var centeneraPlaces = [
    "page": "pg_0025"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000023"
+   "http://sws.geonames.org/3835869"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Fe"
   ],
   "place_types": [
@@ -54625,8 +54603,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -77.14885353,
-    -12.06275293
+    -77.13282,
+    -12.05659
    ]
   },
   "properties": {
@@ -54635,9 +54613,9 @@ var centeneraPlaces = [
    "page": "pg_0365"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000008"
+   "http://sws.geonames.org/3947433"
   ],
-  "titles": [
+  "canonical_titles": [
    "El Callao"
   ],
   "place_types": [
@@ -54659,9 +54637,9 @@ var centeneraPlaces = [
    "page": "pg_0256"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000013"
+   "http://sws.geonames.org/3903987"
   ],
-  "titles": [
+  "canonical_titles": [
    "Tomina"
   ],
   "place_types": [
@@ -54685,7 +54663,7 @@ var centeneraPlaces = [
   "uris": [
    "http://pleiades.stoa.org/places/50004"
   ],
-  "titles": [
+  "canonical_titles": [
    "India"
   ],
   "place_types": [
@@ -54709,7 +54687,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2509954"
   ],
-  "titles": [
+  "canonical_titles": [
    "Valencia"
   ]
  },
@@ -58208,7 +58186,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2510769"
   ],
-  "titles": [
+  "canonical_titles": [
    "Spain"
   ]
  },
@@ -58217,8 +58195,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -77.02998052,
-    -12.04665259
+    -77.02875,
+    -12.04318
    ]
   },
   "properties": {
@@ -58227,9 +58205,9 @@ var centeneraPlaces = [
    "page": "pg_0095"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000001"
+   "http://sws.geonames.org/3936456"
   ],
-  "titles": [
+  "canonical_titles": [
    "Lima"
   ],
   "place_types": [
@@ -58256,7 +58234,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3449433"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santos"
   ]
  },
@@ -67239,7 +67217,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/1636627"
   ],
-  "titles": [
+  "canonical_titles": [
    "Maluku"
   ]
  },
@@ -67258,9 +67236,9 @@ var centeneraPlaces = [
    "page": "pg_0388"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000178"
+   "http://sws.geonames.org/3941584"
   ],
-  "titles": [
+  "canonical_titles": [
    "Chuquinga"
   ],
   "place_types": [
@@ -67272,8 +67250,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -64.78391693,
-    -25.35172828
+    -63.849,
+    -25.5
    ]
   },
   "properties": {
@@ -67282,9 +67260,9 @@ var centeneraPlaces = [
    "page": "pg_0360"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001004"
+   "http://sws.geonames.org/3835559"
   ],
-  "titles": [
+  "canonical_titles": [
    "Talavera de Madrid"
   ],
   "place_types": [
@@ -69770,7 +69748,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3904907"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Cruz"
   ]
  },
@@ -98505,7 +98483,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/6255146"
   ],
-  "titles": [
+  "canonical_titles": [
    "Africa"
   ]
  },
@@ -98514,8 +98492,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -57.853052,
-    -34.472623
+    -57.84494,
+    -34.47372
    ]
   },
   "properties": {
@@ -98524,9 +98502,9 @@ var centeneraPlaces = [
    "page": "pg_0020"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000031"
+   "http://sws.geonames.org/3443013"
   ],
-  "titles": [
+  "canonical_titles": [
    "Colonia"
   ],
   "place_types": [
@@ -98550,7 +98528,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3113331"
   ],
-  "titles": [
+  "canonical_titles": [
    "Plasencia"
   ]
  },
@@ -98558,10 +98536,8 @@ var centeneraPlaces = [
   "type": "Feature",
   "geometry": {
    "type": "Point",
-   "coordinates": [
-    -34.6079,
-    -58.373221
-   ]
+   "coordinates": [-58.35179869,
+    -33.67232101] 
   },
   "properties": {
    "titles": "Buenos Aires",
@@ -98571,7 +98547,7 @@ var centeneraPlaces = [
   "uris": [
    "https://whgazetteer.org/places/portal/179479/"
   ],
-  "titles": [
+  "canonical_titles": [
    "Buenos Aires"
   ],
   "place_types": [
@@ -98593,9 +98569,9 @@ var centeneraPlaces = [
    "page": "pg_0364"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6001010"
+   "http://sws.geonames.org/3693655"
   ],
-  "titles": [
+  "canonical_titles": [
    "Roca"
   ],
   "place_types": [
@@ -98619,7 +98595,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3112703"
   ],
-  "titles": [
+  "canonical_titles": [
    "Puerto Castilla"
   ]
  },
@@ -98640,7 +98616,7 @@ var centeneraPlaces = [
   "uris": [
    "http://pleiades.stoa.org/places/149334673"
   ],
-  "titles": [
+  "canonical_titles": [
    "Fortunatae Insulae (Canary Islands)"
   ],
   "place_types": [
@@ -98664,7 +98640,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3429801"
   ],
-  "titles": [
+  "canonical_titles": [
    "Puerto Bermejo"
   ]
  },
@@ -98685,7 +98661,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/8015350"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Catalina - Dique Lujan"
   ]
  },
@@ -104044,7 +104020,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3450387"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Catarina"
   ]
  },
@@ -104065,7 +104041,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2516367"
   ],
-  "titles": [
+  "canonical_titles": [
    "Jaraicejo"
   ]
  },
@@ -104084,9 +104060,9 @@ var centeneraPlaces = [
    "page": "pg_0182"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:10000593"
+   "http://sws.geonames.org/3861003"
   ],
-  "titles": [
+  "canonical_titles": [
    "Caracara\u00f1a"
   ],
   "place_types": [
@@ -104098,8 +104074,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -73.54117,
-    5.0083
+    -80.7137,
+    -0.9502
    ]
   },
   "properties": {
@@ -104108,9 +104084,9 @@ var centeneraPlaces = [
    "page": "pg_0436"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000338"
+   "http://sws.geonames.org/3652422"
   ],
-  "titles": [
+  "canonical_titles": [
    "Manta"
   ],
   "place_types": [
@@ -104134,7 +104110,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/6377843"
   ],
-  "titles": [
+  "canonical_titles": [
    "Chalamarca"
   ]
  },
@@ -104143,8 +104119,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -64.18855,
-    -31.4213
+    -64.18105,
+    -31.4135
    ]
   },
   "properties": {
@@ -104153,9 +104129,9 @@ var centeneraPlaces = [
    "page": "pg_0109"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000002"
+   "http://sws.geonames.org/3860259"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cordoba"
   ],
   "place_types": [
@@ -104177,9 +104153,9 @@ var centeneraPlaces = [
    "page": "pg_0028"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9001002"
+   "http://sws.geonames.org/3437893"
   ],
-  "titles": [
+  "canonical_titles": [
    "Ciudad Real"
   ],
   "place_types": [
@@ -104191,8 +104167,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -70.65006,
-    -33.43756
+    -70.66687,
+    -33.45694
    ]
   },
   "properties": {
@@ -104201,9 +104177,9 @@ var centeneraPlaces = [
    "page": "pg_0382"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:7000001"
+   "http://sws.geonames.org/3871336"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santiago de Chile"
   ],
   "place_types": [
@@ -108197,7 +108173,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2963597"
   ],
-  "titles": [
+  "canonical_titles": [
    "Ireland"
   ]
  },
@@ -108216,9 +108192,9 @@ var centeneraPlaces = [
    "page": "pg_0430"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5600024"
+   "http://sws.geonames.org/3652278"
   ],
-  "titles": [
+  "canonical_titles": [
    "La Puna"
   ],
   "place_types": [
@@ -108242,7 +108218,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2517500"
   ],
-  "titles": [
+  "canonical_titles": [
    "Fuentes de Andaluc\u00eda"
   ]
  },
@@ -112181,7 +112157,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3175395"
   ],
-  "titles": [
+  "canonical_titles": [
    "Italy"
   ]
  },
@@ -112202,7 +112178,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2510409"
   ],
-  "titles": [
+  "canonical_titles": [
    "Toledo"
   ]
  },
@@ -112223,7 +112199,7 @@ var centeneraPlaces = [
   "uris": [
    "http://pleiades.stoa.org/places/770912717"
   ],
-  "titles": [
+  "canonical_titles": [
    "Canaria? (island)"
   ],
   "place_types": [
@@ -112247,7 +112223,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3428481"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Salvador"
   ]
  },
@@ -112266,22 +112242,23 @@ var centeneraPlaces = [
    "page": "pg_0050"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000047"
+   "http://sws.geonames.org/3439104"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santiago"
   ],
   "place_types": [
    "Pueblo"
   ]
  },
- {
+ /* {
   "type": "Feature",
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -58.423978,
-    -35.024827
+    -35.024827,
+    -58.423978
+    
    ]
   },
   "properties": {
@@ -112290,22 +112267,22 @@ var centeneraPlaces = [
    "page": "pg_0085"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000124"
+   "http://sws.geonames.org/3836886"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Vicente"
   ],
   "place_types": [
    "Poblacion"
   ]
- },
+ }, */
  {
   "type": "Feature",
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -65.58590412,
-    -27.21712553
+    -65.20646,
+    -26.82414
    ]
   },
   "properties": {
@@ -112314,9 +112291,9 @@ var centeneraPlaces = [
    "page": "pg_0004"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000004"
+   "http://sws.geonames.org/3833367"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Miguel de Tucuman"
   ],
   "place_types": [
@@ -112328,8 +112305,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -79.53472,
-    8.95234
+    -79.53422,
+    8.9936
    ]
   },
   "properties": {
@@ -112338,9 +112315,9 @@ var centeneraPlaces = [
    "page": "pg_0095"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000002"
+   "http://sws.geonames.org/3703443"
   ],
-  "titles": [
+  "canonical_titles": [
    "Ciudad de Panama"
   ],
   "place_types": [
@@ -112364,7 +112341,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3169070"
   ],
-  "titles": [
+  "canonical_titles": [
    "Rome"
   ]
  },
@@ -112385,7 +112362,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3118150"
   ],
-  "titles": [
+  "canonical_titles": [
    "Logro\u00f1o"
   ]
  },
@@ -112406,7 +112383,7 @@ var centeneraPlaces = [
   "uris": [
    "http://pleiades.stoa.org/places/687891"
   ],
-  "titles": [
+  "canonical_titles": [
    "Emmaus/Nicopolis"
   ],
   "place_types": [
@@ -112418,8 +112395,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -74.9730943,
-    -12.78780132
+    -74.22321,
+    -13.15878
    ]
   },
   "properties": {
@@ -112428,9 +112405,9 @@ var centeneraPlaces = [
    "page": "pg_0377"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:6000005"
+   "http://sws.geonames.org/3947269"
   ],
-  "titles": [
+  "canonical_titles": [
    "Villa Rica de Oropesa"
   ],
   "place_types": [
@@ -112442,8 +112419,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -79.8353971,
-    -2.115159326
+    -79.90071,
+    -2.19616
    ]
   },
   "properties": {
@@ -112452,9 +112429,9 @@ var centeneraPlaces = [
    "page": "pg_0434"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5600003"
+   "http://sws.geonames.org/3657509"
   ],
-  "titles": [
+  "canonical_titles": [
    "Guayaquil"
   ],
   "place_types": [
@@ -112466,8 +112443,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -60.78447137,
-    -17.84921636
+    -63.18117,
+    -17.78629
    ]
   },
   "properties": {
@@ -112476,9 +112453,9 @@ var centeneraPlaces = [
    "page": "pg_0081"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000009"
+   "http://sws.geonames.org/3904906"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Cruz de la Sierra"
   ],
   "place_types": [
@@ -112502,7 +112479,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2520058"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cartagena"
   ]
  },
@@ -112510,20 +112487,18 @@ var centeneraPlaces = [
   "type": "Feature",
   "geometry": {
    "type": "Point",
-   "coordinates": [
-    8.63146,
-    -79.94775
-   ]
+   "coordinates": [-58.35179869,
+    -33.67232101] 
   },
   "properties": {
    "titles": "Buenos Aires",
-   "section": "canto 2",
+   "section": "canto 2", 
    "page": "pg_0020"
   },
   "uris": [
    "https://whgazetteer.org/places/82378/detail"
   ],
-  "titles": [
+  "canonical_titles": [
    "Buenos Aires"
   ]
  },
@@ -116306,7 +116281,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3474414"
   ],
-  "titles": [
+  "canonical_titles": [
    "Islas Malvinas"
   ]
  },
@@ -116328,8 +116303,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -19.047862,
-    -65.259602
+    -65.259602,
+    -19.047862
    ]
   },
   "properties": {
@@ -116338,9 +116313,9 @@ var centeneraPlaces = [
    "page": "pg_0012"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000001"
+   "http://sws.geonames.org/3903987"
   ],
-  "titles": [
+  "canonical_titles": [
    "Sucre"
   ],
   "place_types": [
@@ -116364,7 +116339,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2511306"
   ],
-  "titles": [
+  "canonical_titles": [
    "Sanl\u00facar de Barrameda"
   ]
  },
@@ -116373,29 +116348,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    123.9622,
-    11.1286
-   ]
-  },
-  "properties": {
-   "titles": "Medellin",
-   "section": "canto 5",
-   "page": "pg_0092"
-  },
-  "uris": [
-   "https://www.geonames.org/1699896/:3674954"
-  ],
-  "titles": [
-   "Medellin"
-  ]
- },
- {
-  "type": "Feature",
-  "geometry": {
-   "type": "Point",
-   "coordinates": [
-    6.2591,
-    -75.580169
+    -78.5123,
+    -0.2295
    ]
   },
   "properties": {
@@ -116404,37 +116358,13 @@ var centeneraPlaces = [
    "page": "pg_0382"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5600001"
+   "http://sws.geonames.org/3652462"
   ],
-  "titles": [
+  "canonical_titles": [
    "Quito"
   ],
   "place_types": [
    "Ciudad"
-  ]
- },
- {
-  "type": "Feature",
-  "geometry": {
-   "type": "Point",
-   "coordinates": [
-    124.81083,
-    6.47361
-   ]
-  },
-  "properties": {
-   "titles": "Paraiso",
-   "section": "canto 10",
-   "page": "pg_0150"
-  },
-  "uris": [
-   "http://sws.geonames.org/1694792"
-  ],
-  "titles": [
-   "Paraiso"
-  ],
-  "tags": [
-   "b\u00edblico"
   ]
  },
  {
@@ -116454,7 +116384,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2516970"
   ],
-  "titles": [
+  "canonical_titles": [
    "Guadalupe"
   ]
  },
@@ -116475,7 +116405,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3874787"
   ],
-  "titles": [
+  "canonical_titles": [
    "Punta Arenas"
   ]
  },
@@ -116494,9 +116424,9 @@ var centeneraPlaces = [
    "page": "pg_0453"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:10000205"
+   "http://sws.geonames.org/3693655"
   ],
-  "titles": [
+  "canonical_titles": [
    "San Sebastian"
   ],
   "place_types": [
@@ -116508,8 +116438,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -65.753511,
-    -19.589281
+    -65.75361,
+    -19.58361
    ]
   },
   "properties": {
@@ -116518,9 +116448,9 @@ var centeneraPlaces = [
    "page": "pg_0004"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000006"
+   "http://sws.geonames.org/3908626"
   ],
-  "titles": [
+  "canonical_titles": [
    "Potosi"
   ],
   "place_types": [
@@ -117626,7 +117556,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3833578"
   ],
-  "titles": [
+  "canonical_titles": [
    "Tucuman"
   ]
  },
@@ -117635,8 +117565,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -58.247601,
-    -32.486561
+    -58.23162,
+    -32.4845
    ]
   },
   "properties": {
@@ -117645,9 +117575,9 @@ var centeneraPlaces = [
    "page": "pg_0021"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000007"
+   "http://sws.geonames.org/3435804"
   ],
-  "titles": [
+  "canonical_titles": [
    "Concepcion del Uruguay"
   ],
   "place_types": [
@@ -117671,7 +117601,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3448439"
   ],
-  "titles": [
+  "canonical_titles": [
    "S\u00e3o Paulo"
   ]
  },
@@ -117692,7 +117622,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2520611"
   ],
-  "titles": [
+  "canonical_titles": [
    "C\u00e1ceres"
   ]
  },
@@ -117713,7 +117643,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2520600"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cadiz"
   ]
  },
@@ -117722,8 +117652,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -65.6609,
-    -20.8172
+    -65.65918,
+    -20.81797
    ]
   },
   "properties": {
@@ -117732,9 +117662,9 @@ var centeneraPlaces = [
    "page": "pg_0348"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000164"
+   "http://sws.geonames.org/3907734"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cotagaita"
   ],
   "place_types": [
@@ -118188,7 +118118,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3374766"
   ],
-  "titles": [
+  "canonical_titles": [
    "Cape Verde"
   ]
  },
@@ -118209,7 +118139,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3439378"
   ],
-  "titles": [
+  "canonical_titles": [
    "Ayolas"
   ]
  },
@@ -118228,9 +118158,9 @@ var centeneraPlaces = [
    "page": "pg_0043"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000195"
+   "http://sws.geonames.org/3439195"
   ],
-  "titles": [
+  "canonical_titles": [
    "Itapua"
   ],
   "place_types": [
@@ -118242,8 +118172,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -58.986565,
-    -27.451104
+    -58.98306,
+    -27.46056
    ]
   },
   "properties": {
@@ -118252,9 +118182,9 @@ var centeneraPlaces = [
    "page": "pg_0072"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000161"
+   "http://sws.geonames.org/3836127"
   ],
-  "titles": [
+  "canonical_titles": [
    "Resistencia"
   ],
   "place_types": [
@@ -118278,7 +118208,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3457135"
   ],
-  "titles": [
+  "canonical_titles": [
    "Miracatu"
   ]
  },
@@ -118287,8 +118217,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -62.99724082,
-    -17.75403329
+    -63.18117,
+    -17.78629
    ]
   },
   "properties": {
@@ -118297,9 +118227,9 @@ var centeneraPlaces = [
    "page": "pg_0081"
   },
   "uris": [
-   "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:8000009"
+   "http://sws.geonames.org/3904906"
   ],
-  "titles": [
+  "canonical_titles": [
    "Santa Cruz de la Sierra"
   ],
   "place_types": [
@@ -118310,10 +118240,8 @@ var centeneraPlaces = [
   "type": "Feature",
   "geometry": {
    "type": "Point",
-   "coordinates": [
-    -5.95785,
-    38.96265
-   ]
+   "coordinates": [-75.56349,
+    6.25364]
   },
   "properties": {
    "titles": "Medellin",
@@ -118321,9 +118249,9 @@ var centeneraPlaces = [
    "page": "pg_0092"
   },
   "uris": [
-   "http://sws.geonames.org/2513968"
+   "https://whgazetteer.org/places/portal/175093/"
   ],
-  "titles": [
+  "canonical_titles": [
    "Medell\u00edn"
   ]
  },
@@ -118344,7 +118272,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3463237"
   ],
-  "titles": [
+  "canonical_titles": [
    "Florian\u00f3polis"
   ]
  },
@@ -118365,7 +118293,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3903987"
   ],
-  "titles": [
+  "canonical_titles": [
    "Sucre"
   ]
  },
@@ -118386,7 +118314,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/2510911"
   ],
-  "titles": [
+  "canonical_titles": [
    "Sevilla"
   ]
  },
@@ -118407,7 +118335,7 @@ var centeneraPlaces = [
   "uris": [
    "http://sws.geonames.org/3439482"
   ],
-  "titles": [
+  "canonical_titles": [
    "Acahay"
   ]
  },
@@ -118428,7 +118356,7 @@ var centeneraPlaces = [
   "uris": [
    "http://dare.ht.lu.se/places/14305"
   ],
-  "titles": [
+  "canonical_titles": [
    "Augusta Emerita, M\u00e9rida"
   ]
  }
