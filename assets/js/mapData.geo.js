@@ -54580,8 +54580,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    120.74852,
-    14.94594
+    -23.96306,
+    -46.39194
    ]
   },
   "properties": {
@@ -54590,7 +54590,7 @@ var centeneraPlaces = [
    "page": "pg_0085"
   },
   "uris": [
-   "http://sws.geonames.org/1687419"
+   "https://www.geonames.org/3448136/"
   ],
   "titles": [
    "San Vicente"
@@ -112542,7 +112542,7 @@ var centeneraPlaces = [
    "page": "pg_0020"
   },
   "uris": [
-   "http://sws.geonames.org/3713678"
+   "https://whgazetteer.org/places/82378/detail"
   ],
   "titles": [
    "Buenos Aires"
@@ -116328,7 +116328,7 @@ var centeneraPlaces = [
    "http://sws.geonames.org/3474414"
   ],
   "titles": [
-   "Falkland Islands"
+   "Islas Malvinas"
   ]
  },
  {
@@ -116357,8 +116357,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -65.259602,
-    -19.047862
+    -19.047862,
+    -65.259602
    ]
   },
   "properties": {
@@ -116412,7 +116412,7 @@ var centeneraPlaces = [
    "page": "pg_0092"
   },
   "uris": [
-   "http://sws.geonames.org/1699896"
+   "https://www.geonames.org/1699896/:3674954"
   ],
   "titles": [
    "Medellin"
@@ -116423,8 +116423,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -78.512091,
-    -0.220169
+    6.2591,
+    -75.580169
    ]
   },
   "properties": {
