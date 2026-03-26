@@ -42499,27 +42499,6 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    10.68454,
-    122.51997
-   ]
-  },
-  "properties": {
-   "titles": "China",
-   "section": "canto 26",
-   "page": "pg_0430"
-  },
-  "uris": [
-   "http://sws.geonames.org/1711003"
-  ],
-  "titles": [
-   "China"
-  ]
- },
- {
-  "type": "Feature",
-  "geometry": {
-   "type": "Point",
-   "coordinates": [
     -4.87896,
     37.29263
    ]
