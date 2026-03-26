@@ -42456,8 +42456,7 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    40.42519,
-    -3.69245
+    -3.69245, 40.42519
    ]
   },
   "properties": {
@@ -112467,8 +112466,8 @@ var centeneraPlaces = [
   "geometry": {
    "type": "Point",
    "coordinates": [
-    -0.98623,
-    37.60512
+    -75.4543,
+    10.50743
    ]
   },
   "properties": {
