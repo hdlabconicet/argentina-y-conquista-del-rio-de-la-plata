@@ -12783,9 +12783,9 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Espa\u00f1a",
+   "titles": "España",
    "section": "canto 01",
-   "page": "pg_0004"
+   "page": "pg_0006"
   },
   "uris": [
    "http://sws.geonames.org/2510769"
@@ -50842,8 +50842,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Argentina",
-   "section": "Introducci\u00f3n",
-   "page": "pg_0001"
+   "section": "Introducción",
+   "page": "pg_0017"
   },
   "uris": [
    "http://sws.geonames.org/3865483"
@@ -51836,7 +51836,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Rio de la Plata",
-   "section": "Introducci\u00f3n",
+   "section": "Introducción",
    "page": "pg_0001"
   },
   "uris": [
@@ -52996,7 +52996,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Portugal",
-   "section": "Introducci\u00f3n",
+   "section": "Introducción",
    "page": "pg_0001"
   },
   "uris": [
@@ -53900,7 +53900,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Lisboa",
-   "section": "Introducci\u00f3n",
+   "section": "Introducción",
    "page": "pg_0002"
   },
   "uris": [
@@ -54119,7 +54119,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "C\u00f3rdoba",
+   "titles": "Córdoba",
    "section": "canto 14",
    "page": "pg_0109"
   },
@@ -54127,7 +54127,7 @@ var centeneraPlaces = [
    "http://sws.geonames.org/2519240"
   ],
   "canonical_titles": [
-   "C\u00f3rdoba"
+   "Córdoba"
   ]
  },
  {
@@ -92753,7 +92753,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "torre de Mambr\u00f3s",
+   "titles": "torre de Mambrós",
    "section": "canto 01",
    "page": "pg_0006"
   },
@@ -92994,7 +92994,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "C\u00f3rdoba",
+   "titles": "Córdoba",
    "section": "canto 07",
    "page": "pg_0109"
   },
@@ -101206,7 +101206,7 @@ var centeneraPlaces = [
   "properties": {
    "titles": "Roma",
    "section": "canto 01",
-   "page": "pg_0006"
+   "page": "pg_0017"
   },
   "uris": [
    "http://sws.geonames.org/3169070"
@@ -106139,7 +106139,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Acay",
+   "titles": "Acai",
    "section": "canto 03",
    "page": "pg_0044"
   },
@@ -106160,7 +106160,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Merida",
+   "titles": "Mérida",
    "section": "canto 01",
    "page": "pg_0006"
   },
