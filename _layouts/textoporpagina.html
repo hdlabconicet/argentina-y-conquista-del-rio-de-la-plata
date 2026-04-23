@@ -28,13 +28,30 @@ layout: default
 </div>
 
 <script>
-    var url = window.location.href;
-      if (url.lastIndexOf("?q=") > 0) {
-        var stringloc = url.lastIndexOf("?q=") + 3;
-        var searchquery = decodeURIComponent(url.substr(stringloc));
-        var regex = new RegExp("(?:^|)(" + searchquery + ")(?:$|)", "gim");
-        var content = document.getElementById("main").innerHTML;
-        document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
-      }
-      (document);
+    // 'load' para que el mapa cargue primero sus marcas
+    window.addEventListener('load', function() {
+        const mainEl = document.getElementById("main");
+        const params = new URLSearchParams(window.location.search);
+        const query = params.get("q");
+
+        if (mainEl && query) {
+            const escaped = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+            const tagPattern = "(?:<[^>]+>)*";
+            const body = escaped
+                .split(/\s+/)
+                .map(word => word.split('').join(tagPattern))
+                .join(tagPattern + "[\\s\\n\\r]+" + tagPattern);
+            
+            const regex = new RegExp("(" + body + ")", "gim");
+            
+            // Buscamos en rimas, notas y también en títulos (h1, h2, h3)
+            const targets = mainEl.querySelectorAll(".rhyme p, .gloss p, h1, h2, h3, h4");
+            
+            targets.forEach(el => {
+                if (regex.test(el.innerHTML)) {
+                    el.innerHTML = el.innerHTML.replace(regex, "<mark>$1</mark>");
+                }
+            });
+        }
+    });
 </script>

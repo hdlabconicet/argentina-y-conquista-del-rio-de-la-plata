@@ -1,4 +1,4 @@
-var sectionColor = {'Introducción': '#e6194b', 'canto 1': '#3cb44b', 'canto 2': '#ffe119', 'canto 3': '#4363d8', 'canto 4': '#f58231', 'canto 5': '#911eb4', 'canto 6': '#46f0f0', 'canto 7': '#f032e6', 'canto 8': '#bcf60c', 'canto 9': '#fabebe', 'canto 10': '#008080', 'canto 11': '#e6beff', 'canto 12': '#9a6324', 'canto 13': '#fffac8', 'canto 14': '#800000', 'canto 15': '#aaffc3', 'canto 16': '#808000', 'canto 17': '#f1e6e5', 'canto 18': '#000075', 'canto 19': '#808080', 'canto 20': '#ffd8b1', 'canto 21': '#000000', 'canto 22': '#d8488b', 'canto 23': '#e57438', 'canto 24': '#ecff00', 'canto 25': '#4e4e4e', 'canto 26': '#cb00a9', 'canto 27': '#fab546', 'canto 28': '#6100fb'}
+var sectionColor = {'Introducción': '#e6194b', 'canto 01': '#3cb44b', 'canto 02': '#ffe119', 'canto 03': '#4363d8', 'canto 04': '#f58231', 'canto 05': '#911eb4', 'canto 06': '#46f0f0', 'canto 07': '#f032e6', 'canto 08': '#bcf60c', 'canto 09': '#fabebe', 'canto 10': '#008080', 'canto 11': '#e6beff', 'canto 12': '#9a6324', 'canto 13': '#fffac8', 'canto 14': '#800000', 'canto 15': '#aaffc3', 'canto 16': '#808000', 'canto 17': '#f1e6e5', 'canto 18': '#000075', 'canto 19': '#808080', 'canto 20': '#ffd8b1', 'canto 21': '#000000', 'canto 22': '#d8488b', 'canto 23': '#e57438', 'canto 24': '#ecff00', 'canto 25': '#4e4e4e', 'canto 26': '#cb00a9', 'canto 27': '#fab546', 'canto 28': '#6100fb'}
 
 var centeneraPlaces = [
  {
@@ -9263,7 +9263,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Brasil",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0004"
   },
   "uris": [
@@ -9284,7 +9284,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Guapaí",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0011"
   },
   "uris": [
@@ -12784,7 +12784,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Espa\u00f1a",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0004"
   },
   "uris": [
@@ -14843,7 +14843,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Per\u00fa",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0004"
   },
   "uris": [
@@ -45414,7 +45414,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Ibiaza",
-   "section": "canto 9",
+   "section": "canto 09",
    "page": "pg_0126"
   },
   "uris": [
@@ -45435,7 +45435,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Francisco",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0085"
   },
   "uris": [
@@ -45459,7 +45459,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Lambare",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0041"
   },
   "uris": [
@@ -46187,8 +46187,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paraguay",
-   "section": "canto 1",
-   "page": "pg_0003"
+   "section": "canto 01",
+   "page": "pg_0010"
   },
   "uris": [
    "http://sws.geonames.org/3437598"
@@ -50884,7 +50884,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Gomera",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0115"
   },
   "uris": [
@@ -51681,7 +51681,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Martin Garcia",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0021"
   },
   "uris": [
@@ -51692,27 +51692,6 @@ var centeneraPlaces = [
   ],
   "place_types": [
    "Fuerte"
-  ]
- },
- {
-  "type": "Feature",
-  "geometry": {
-   "type": "Point",
-   "coordinates": [
-    1.08254,
-    51.94331
-   ]
-  },
-  "properties": {
-   "titles": "Mitiley",
-   "section": "canto 26",
-   "page": "pg_0430"
-  },
-  "uris": [
-   "http://sws.geonames.org/2642416"
-  ],
-  "canonical_titles": [
-   "Mistley"
   ]
  },
  {
@@ -51767,7 +51746,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "rio de Jeniero",
+   "titles": "Río Janeiro",
    "section": "canto 19",
    "page": "pg_0312"
   },
@@ -51789,7 +51768,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Ana",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0026"
   },
   "uris": [
@@ -51814,17 +51793,13 @@ var centeneraPlaces = [
   "properties": {
    "titles": "Paita",
    "section": "canto 26",
-   "page": "pg_0430"
+   "page": "pg_0435"
   },
   "uris": [
    "http://sws.geonames.org/3932004"
   ],
   "canonical_titles": [
-   "Paita"
-  ],
-  "place_types": [
-   "Pueblo"
-  ]
+   "Paita"]
  },
  {
   "type": "Feature",
@@ -53041,7 +53016,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Vicente",
-   "section": "canto 9",
+   "section": "canto 09",
    "page": "pg_0137"
   },
   "uris": [
@@ -53201,7 +53176,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Chiquitos",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0084"
   },
   "uris": [
@@ -53225,7 +53200,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paran\u00e1",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0010"
   },
   "uris": [
@@ -53246,7 +53221,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Cruz",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0088"
   },
   "uris": [
@@ -53969,7 +53944,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Tajo",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0007"
   },
   "uris": [
@@ -53992,8 +53967,8 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Cabo Frio",
-   "section": "canto 1",
+   "titles": "Cabo Frío",
+   "section": "canto 01",
    "page": "pg_0009"
   },
   "uris": [
@@ -54014,7 +53989,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Toledo",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0015"
   },
   "uris": [
@@ -54121,7 +54096,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "islas de San L\u00e1zaro",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0021"
   },
   "uris": [
@@ -54166,7 +54141,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Francisco",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0085"
   },
   "uris": [
@@ -54515,7 +54490,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paraguay",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0003"
   },
   "uris": [
@@ -54539,7 +54514,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Ipit\u00ed",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0029"
   },
   "uris": [
@@ -54563,7 +54538,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Puerto Pico",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0119"
   },
   "uris": [
@@ -54584,7 +54559,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Florida",
-   "section": "canto 4",
+   "section": "canto 04",
    "page": "pg_0065"
   },
   "uris": [
@@ -54605,7 +54580,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Teide",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0114"
   },
   "uris": [
@@ -54650,7 +54625,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Paran\u00e1",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0010"
   },
   "uris": [
@@ -54674,7 +54649,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Arequipa",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0119"
   },
   "uris": [
@@ -54697,7 +54672,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Igeipop\u00e9",
+   "titles": "Igeipope",
    "section": "canto 15",
    "page": "pg_0195"
   },
@@ -54718,15 +54693,15 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Lambar\u00e9,",
-   "section": "canto 3",
+   "titles": "Lambare,",
+   "section": "canto 03",
    "page": "pg_0041"
   },
   "uris": [
    "http://sws.geonames.org/3437863"
   ],
   "canonical_titles": [
-   "Lambar\u00e9"
+   "Lambare"
   ]
  },
  {
@@ -54740,7 +54715,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Maria",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0019"
   },
   "uris": [
@@ -54785,7 +54760,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Vicente",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0085"
   },
   "uris": [
@@ -54806,7 +54781,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santiago",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0050"
   },
   "uris": [
@@ -54826,8 +54801,8 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Santa F\u00e9",
-   "section": "canto 2",
+   "titles": "Santa Fe",
+   "section": "canto 02",
    "page": "pg_0025"
   },
   "uris": [
@@ -54835,9 +54810,6 @@ var centeneraPlaces = [
   ],
   "canonical_titles": [
    "Santa Fe"
-  ],
-  "place_types": [
-   "Ciudad"
   ]
  },
  {
@@ -54900,7 +54872,7 @@ var centeneraPlaces = [
   "properties": {
    "titles": "India",
    "section": "canto 22",
-   "page": "pg_0035"
+   "page": "pg_0369"
   },
   "uris": [
    "http://pleiades.stoa.org/places/50004"
@@ -54944,7 +54916,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Lima",
-   "section": "canto 6",
+   "section": "canto 06",
    "page": "pg_0095"
   },
   "uris": [
@@ -92758,7 +92730,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Gabriel",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0020"
   },
   "uris": [
@@ -92782,7 +92754,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "torre de Mambr\u00f3s",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0006"
   },
   "uris": [
@@ -92801,7 +92773,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Buenos Aires",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0020"
   },
   "uris": [
@@ -92849,7 +92821,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Castilla",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0032"
   },
   "uris": [
@@ -92870,7 +92842,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Fortunadas",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0008"
   },
   "uris": [
@@ -92894,7 +92866,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Bermejo",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0030"
   },
   "uris": [
@@ -92914,7 +92886,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "rio Igapop\u00e9",
+   "titles": "rio Igapope",
    "section": "canto 13",
    "page": "pg_0195"
   },
@@ -92989,9 +92961,6 @@ var centeneraPlaces = [
   ],
   "canonical_titles": [
    "Manta"
-  ],
-  "place_types": [
-   "Pueblo"
   ]
  },
  {
@@ -93026,7 +92995,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "C\u00f3rdoba",
-   "section": "canto 7",
+   "section": "canto 07",
    "page": "pg_0109"
   },
   "uris": [
@@ -93050,7 +93019,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Guaira",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0028"
   },
   "uris": [
@@ -97088,9 +97057,9 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Puna",
+   "titles": "Puná",
    "section": "canto 26",
-   "page": "pg_0430"
+   "page": "pg_0434"
   },
   "uris": [
    "http://sws.geonames.org/3652278"
@@ -101073,7 +101042,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "sierras de Altamira",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0007"
   },
   "uris": [
@@ -101093,8 +101062,8 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "Canar\u00e9a",
-   "section": "canto 5",
+   "titles": "Canaria",
+   "section": "canto 05",
    "page": "pg_0052"
   },
   "uris": [
@@ -101118,7 +101087,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Salvador",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0017"
   },
   "uris": [
@@ -101164,7 +101133,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Vicente",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0085"
   },
   "uris": [
@@ -101188,7 +101157,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Tucuman",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0004"
   },
   "uris": [
@@ -101212,7 +101181,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Panam\u00e1",
-   "section": "canto 6",
+   "section": "canto 06",
    "page": "pg_0095"
   },
   "uris": [
@@ -101236,7 +101205,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Roma",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0006"
   },
   "uris": [
@@ -101278,7 +101247,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Judea",
-   "section": "canto 4",
+   "section": "canto 04",
    "page": "pg_0058"
   },
   "uris": [
@@ -101350,7 +101319,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Cruz",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0081"
   },
   "uris": [
@@ -101374,7 +101343,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Cartagena",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0095"
   },
   "uris": [
@@ -101393,7 +101362,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Buenos Aires",
-   "section": "canto 2", 
+   "section": "canto 02", 
    "page": "pg_0020"
   },
   "uris": [
@@ -105185,20 +105154,25 @@ var centeneraPlaces = [
   "canonical_titles": [
    "Islas Malvinas"
   ]
- },
- {
+ },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
     "coordinates": [104.195397, 35.86166]
   },
   "properties": {
-    "title": "China",
+    "titles": "China",
     "section": "canto 26",
-    "page": "pg_0430",
-    "uri": "http://sws.geonames.org/1814991"
-  }
-},
+    "page": "pg_0437"
+  },
+  "uris": [
+   "http://sws.geonames.org/1814991"
+  ],
+  "canonical_titles": [
+   "China"
+  ]
+}
+ ,
  {
   "type": "Feature",
   "geometry": {
@@ -105210,7 +105184,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Charcas",
-   "section": "canto 6",
+   "section": "canto 06",
    "page": "pg_0012"
   },
   "uris": [
@@ -105234,7 +105208,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Lucar",
-   "section": "canto 6",
+   "section": "canto 06",
    "page": "pg_0088"
   },
   "uris": [
@@ -105300,7 +105274,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Estrecho",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0009"
   },
   "uris": [
@@ -105323,7 +105297,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "San Sebastian",
+   "titles": "San Sebastián",
    "section": "canto 28",
    "page": "pg_0453"
   },
@@ -105348,7 +105322,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "cerro Potos\u00ed",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0004"
   },
   "uris": [
@@ -105435,7 +105409,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Villuerca",
-   "section": "canto 8",
+   "section": "canto 08",
    "page": "pg_0119"
   },
   "uris": [
@@ -105456,7 +105430,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "C\u00e1diz",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0068"
   },
   "uris": [
@@ -105931,8 +105905,8 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Cabo Verde",
-   "section": "canto 4",
-   "page": "pg_0052"
+   "section": "canto 04",
+   "page": "pg_0053"
   },
   "uris": [
    "http://sws.geonames.org/3374766"
@@ -105951,7 +105925,7 @@ var centeneraPlaces = [
    ]
   },
   "properties": {
-   "titles": "rio Juan de Oyolas",
+   "titles": "río Juan de Oyolas",
    "section": "canto 12",
    "page": "pg_0183"
   },
@@ -105973,7 +105947,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Itapu\u00e1",
-   "section": "canto 3",
+   "section": "canto 03",
    "page": "pg_0043"
   },
   "uris": [
@@ -105997,7 +105971,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "San Fernando",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0072"
   },
   "uris": [
@@ -106042,7 +106016,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Cruz",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0081"
   },
   "uris": [
@@ -106063,15 +106037,33 @@ var centeneraPlaces = [
     6.25364]
   },
   "properties": {
-   "titles": "Medellin",
-   "section": "canto 5",
+   "titles": ["Medellin"],
+   "section": "canto 05",
    "page": "pg_0092"
   },
   "uris": [
    "https://whgazetteer.org/places/portal/175093/"
   ],
   "canonical_titles": [
-   "Medell\u00edn"
+   "Medellín"
+  ]
+ },{
+  "type": "Feature",
+  "geometry": {
+   "type": "Point",
+   "coordinates": [-75.56349,
+    6.25364]
+  },
+  "properties": {
+   "titles": ["Medellín"],
+   "section": "canto 05",
+   "page": "pg_0092"
+  },
+  "uris": [
+   "https://whgazetteer.org/places/portal/175093/"
+  ],
+  "canonical_titles": [
+   "Medellín"
   ]
  },
  {
@@ -106085,14 +106077,14 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Santa Catalina",
-   "section": "canto 5",
+   "section": "canto 05",
    "page": "pg_0070"
   },
   "uris": [
    "http://sws.geonames.org/3463237"
   ],
   "canonical_titles": [
-   "Florian\u00f3polis"
+   "Florianopolis"
   ]
  },
  {
@@ -106127,7 +106119,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Sevilla",
-   "section": "canto 2",
+   "section": "canto 02",
    "page": "pg_0030"
   },
   "uris": [
@@ -106148,7 +106140,7 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Acay",
-   "section": "canto 3",
+   "section": "canto 03",
    "page": "pg_0044"
   },
   "uris": [
@@ -106169,14 +106161,14 @@ var centeneraPlaces = [
   },
   "properties": {
    "titles": "Merida",
-   "section": "canto 1",
+   "section": "canto 01",
    "page": "pg_0006"
   },
   "uris": [
    "http://dare.ht.lu.se/places/14305"
   ],
   "canonical_titles": [
-   "Augusta Emerita, M\u00e9rida"
+   "Augusta Emerita, Merida"
   ]
  }
 ]
