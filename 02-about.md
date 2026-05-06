@@ -16,6 +16,6 @@ El texto de esta edición digital se tomó de *Historia de Argentina: desde el d
 
 Citar esta edición como: 
 
-<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2023). Martín del Barco Centenera. <i>Argentina y conquista del Río de la Plata con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil</i>. HD Lab. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a> [Fecha de consulta]</p>
+<p style="font-size: 14px;">del Rio Riande, Gimena, Hernández, Nidia y De León, Romina (eds.). (2023). Martín del Barco Centenera. <i>Argentina y conquista del Río de la Plata con otros acaecimientos de los reinos del Perú, Tucumán y el Estado del Brasil</i>. HD LAB-Biblioteca Digital. <a href="{{ site.baseurl }}/">http://hdlab.space/Argentina-y-conquista-del-Rio-de-la-plata/</a>. ISSN 3072-7715 [Fecha de consulta]</p>
 
 Repositorio de datos: <a class="no-underline" href="https://zenodo.org/doi/10.5281/zenodo.10278565"><img src="https://zenodo.org/badge/346828059.svg" alt="DOI"></a>
