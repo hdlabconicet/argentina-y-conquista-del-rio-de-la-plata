@@ -15,7 +15,7 @@ Las siguientes secciones presentan cuadros interactivos. En cada panel, deslice 
 
 Palabras más frecuentes del texto de Del Barco Centenera. Deslice el cursor sobre las palabras para ver la frecuencia en el texto.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Cirrus/?palette=extjs&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&whiteList=&visible=155&fontFamily=LatoWeb&corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Cirrus/?stopList=keywords-2339058d6c28812286931f32c078a742&whiteList=&corpus=99a0a29ec0de60e854040e228c32cd44'></iframe>
 
 Deslice la barra de términos para aumentar o disminuir la cantidad de palabras en la nube.
 
@@ -23,7 +23,7 @@ Deslice la barra de términos para aumentar o disminuir la cantidad de palabras 
 
 Contexto enunciativo de las palabras más frecuentes del texto. Puede modificar por frecuencia ascendente o descendente.
 
-<iframe class="py-3" src="https://voyant-tools.org/tool/Contexts/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&corpus=457e9db92b0d1dbb2fdfd041cc603ca4"></iframe>
+<iframe class="py-3" src="https://service.sadilar.org/voyant/tool/Contexts/?stopList=keywords-2339058d6c28812286931f32c078a742&query=gente*&corpus=99a0a29ec0de60e854040e228c32cd44"></iframe>
 
 Modifique el término a consultar desde el menú inferior izquierdo.
 
@@ -31,12 +31,12 @@ Modifique el término a consultar desde el menú inferior izquierdo.
 
 Evolución de la frecuencia de los principales términos de _Argentina y conquista del Río de la Plata_.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/Trends/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&query=gente&query=río&mode=document&corpus=457e9db92b0d1dbb2fdfd041cc603ca4'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Trends/?stopList=keywords-2339058d6c28812286931f32c078a742&query=gente&query=tierra&query=mal&query=indios&query=r%C3%ADo&mode=document&corpus=99a0a29ec0de60e854040e228c32cd44'></iframe>
 
 ## Grafo de colocaciones
 
 Deslice el cursor sobre las palabras de este grafo de colocaciones para consultar la frecuencia de cada par de términos.
 
-<iframe class="py-3" src='https://voyant-tools.org/tool/CollocatesGraph/?palette=extjs&lang=es&stopList=keywords-a9df3d961ced1993beab1db1c177dd0f&query=tierra&query=gente&query=río&mode=corpus&corpus=457e9db92b0d1dbb2fdfd041cc603ca4'></iframe>
+<iframe class="py-3" src='https://service.sadilar.org/voyant/tool/Links/?stopList=keywords-ab2f91f2bad47f05820a089108decfb0&query=don&query=diego&query=pedro&query=francisco&query=gabriel&query=mendoza&context=9&corpus=99a0a29ec0de60e854040e228c32cd44'></iframe>
 
-<div class="py-4 mt-4"><p>Visite <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&panels=streamgraph,reader,corpuscollocates,summary,bubblelines" target="_blank">este link</a> para descubrir <i>Argentina y conquista del Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=Bubbles" target="_blank">burbujas de términos</a>, <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=Veliza" target="_blank">Veliza</a>, <a href="https://voyant-tools.org/?corpus=457e9db92b0d1dbb2fdfd041cc603ca4&lang=es&palette=extjs&stopList=kkeywords-a9df3d961ced1993beab1db1c177dd0f&view=TextualArc" target="_blank">arco textual</a> y muchas más.</p></div>
+<div class="py-4 mt-4"><p>Visite <a href="https://service.sadilar.org/voyant/?stopList=keywords-ab2f91f2bad47f05820a089108decfb0&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=99a0a29ec0de60e854040e228c32cd44" target="_blank">este link</a> para descubrir <i>Argentina y conquista del Río de la Plata</i> a la luz de otras herramientas ofrecidas por Voyant Tools: <a href="https://service.sadilar.org/voyant/tool/Bubbles/?stopList=keywords-ab2f91f2bad47f05820a089108decfb0&corpus=99a0a29ec0de60e854040e228c32cd44" target="_blank">burbujas de términos</a>, <a href="https://service.sadilar.org/voyant/tool/TextualArc/?stopList=keywords-ab2f91f2bad47f05820a089108decfb0&view=bubblelines&corpus=99a0a29ec0de60e854040e228c32cd44" target="_blank">arco textual</a> y muchas más.</p></div>
